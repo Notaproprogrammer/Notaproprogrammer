@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Notaproprogrammer
-- 👀 I’m interested in ... Hacking_and_Programming.
+- 👀 I’m interested in ... Programming,c++,python,javascript,web development and app development.
 - 🌱 I’m currently learning ... Programming.
 - 💞️ I’m looking to collaborate on ... Robotics. 
 - 📫 How to reach me ...tanishebiswas@gmail.com.
